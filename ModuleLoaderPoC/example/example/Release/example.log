@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+  peb-unlink.cpp
+  suspender.cpp
+     Creating library C:\Users\Admin\Desktop\Projects\LiveGuardKiller\ModuleLoaderPoC\example\Release\example.lib and object C:\Users\Admin\Desktop\Projects\LiveGuardKiller\ModuleLoaderPoC\example\Release\example.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 29 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  example.vcxproj -> C:\Users\Admin\Desktop\Projects\LiveGuardKiller\ModuleLoaderPoC\example\Release\example.dll
