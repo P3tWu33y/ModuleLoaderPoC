@@ -12,7 +12,7 @@
 ThreadSuspender g_threadSuspender;
 HMODULE g_hModule = nullptr;
 
-// --- Exports המלאים למניעת שגיאת Entry Point (מבוסס על התיקון בתמונה 7b05e6) ---
+// --- Exports ---
 #pragma comment(linker, "/export:GetFileVersionInfoA=C:\\Windows\\System32\\version.GetFileVersionInfoA")
 #pragma comment(linker, "/export:GetFileVersionInfoByHandle=C:\\Windows\\System32\\version.GetFileVersionInfoByHandle")
 #pragma comment(linker, "/export:GetFileVersionInfoExW=C:\\Windows\\System32\\version.GetFileVersionInfoExW")
